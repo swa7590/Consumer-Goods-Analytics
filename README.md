@@ -14,11 +14,17 @@ Use SQL to solve 10 specific business queries related to sales, pricing trends, 
 
 ### 💡 Key Learnings & Skills Gained:
 ✔️ SQL Joins – Merged datasets to gain deeper insights into market and sales patterns.
+
 ✔️ Filtering & Grouping – Extracted and grouped key metrics using WHERE, GROUP BY, and HAVING.
+
 ✔️ Aggregation – Applied SUM(), COUNT(), and AVG() to summarize critical KPIs.
+
 ✔️ Power BI Integration – Translated insights into clear and interactive visualizations.
+
 ✔️ CTEs – Streamlined and structured complex logic for easier interpretation.
+
 ✔️ Window Functions – Used RANK() and similar tools to identify top-performing products.
+
 
 ### 📊 Key Insights Uncovered:
 📌 Unique products grew by 36.33% from 2020 to 2021.
