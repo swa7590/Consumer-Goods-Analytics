@@ -28,18 +28,26 @@ Use SQL to solve 10 specific business queries related to sales, pricing trends, 
 
 ### 📊 Key Insights Uncovered:
 📌 Unique products grew by 36.33% from 2020 to 2021.
+
 📌 Retailer channel led with ₹1219M+, contributing 73% of gross sales.
+
 📌 Accessories had the highest product variety growth.
+
 📌 Flipkart topped the average discount chart in India.
+
 📌 Q1 2020 recorded the highest sales volume.
 
 ### 🧠 Key Learnings:
 💡 Business context is essential — SQL is just a tool.
+
 💡 Clean queries are great, but clean communication is greater.
+
 💡 Executives don’t need code; they need clarity and impact.
+
 💡 Simplicity, structure, and storytelling win over technical complexity.
 
 ### 🛠️ Tools & Techniques Used:
 🔹 SQL (Joins, Aggregates, CTEs, Window Functions).
+
 🔹 Business Insight Articulation.
 
