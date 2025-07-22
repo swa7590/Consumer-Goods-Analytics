@@ -1,7 +1,9 @@
 ## Consumer-Goods-Analytics
 This project is part of the data analytics bootcamp at Codebasics.
 
-### Video presentation link: 
+### Video presentation link: https://www.linkedin.com/feed/update/urn:li:activity:7353448936931573760/
+
+### Live Dashboard Link: [http://bit.ly/46eccWR](https://app.powerbi.com/view?r=eyJrIjoiYzJhZmE2ZjEtNmVkMy00ZGVmLTk1YjYtOWVkYmNjYzI2NjY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### 📊 Project Focus: 
 Delivering valuable business insights to senior management at AtliQ Hardwares, a fictional yet forward-thinking computer hardware brand with a strong footprint in India and globally.
